@@ -19,7 +19,7 @@ Here on GitHub are where open-source files, transcripts, subtitle files, citatio
 - ~~Facebook~~
 - ~~WordPress~~
 #### Repositories
-- [GitHub](https://github.com/rikaklassen) / [GitLab](https://gitlab.com/rikaklassen)
+- GitHub) / [GitLab](https://gitlab.com/rikaklassen)
 #### Archival
 - [Internet Archive](https://archive.org/details/@rika_klassen)
 
