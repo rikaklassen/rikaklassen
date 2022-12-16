@@ -1,4 +1,6 @@
-Hi, I am Rika Klassen. I am a deafblind person bilingual in American Sign Language and English.
+Hi, I am Rika Klassen. I am a deafblind person bilingual in American Sign Language and English. 
+
+Here on GitHub are where open-source files, transcripts, subtitle files, citations, documentations and others can be found. The files are duplicated and synced across other repisotories and archival websites.
 ### Where You Can Find Me
 #### Active
 - [Instagram](https://www.instagram.com/rikaklassen/) / [Pixelfed](https://pixelfed.social/rikaklassen)
