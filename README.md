@@ -7,7 +7,7 @@ Hi, I am Rika Klassen. I am a deafblind person bilingual in American Sign Langua
 - [YouTube](https://www.youtube.com/@rikaklassen)
 - [Vimeo](https://vimeo.com/rikaklassen)
 #### Experimental
-- [Tumblr](https://www.tumblr.com/rikaklassen) / ~~Posterous~~
+- [Tumblr](https://www.tumblr.com/rikaklassen) / [Cohost](https://cohost.org/rikaklassen) / ~~Posterous~~
 #### Parked
 - [Twitch](https://www.twitch.tv/rikaklassen)
 - [TikTok](https://tiktok.com/@rikaklassen)
