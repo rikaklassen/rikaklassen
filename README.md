@@ -24,6 +24,5 @@ Here on GitHub are where open-source files, transcripts, subtitle files, citatio
 - [Internet Archive](https://archive.org/details/@rika_klassen)
 ### How To Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4GHE0Q)
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rikaklassen" data-color="#BD5FFF" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 ### Others Needing Support
 - [PayPal](https://www.paypal.me/bglamours) - Bestie is going through college and she needs all the support she can get.
