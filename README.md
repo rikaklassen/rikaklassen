@@ -26,6 +26,7 @@ Here on GitHub are where open-source files, transcripts, subtitle files, citatio
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4GHE0Q)
 ### Others Needing Support
 - [PayPal](https://www.paypal.me/bglamours) - Bestie is going through college and she needs all the support she can get.
+<---
 rikaklassen/rikaklassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
