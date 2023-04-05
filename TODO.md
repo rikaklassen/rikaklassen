@@ -4,3 +4,7 @@
 - Mirror Instagram photos to Pixelfed and Calckey / Misskey
 - Back up Tumblr posts
 - Back up tweets
+
+If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
+
+Last updated April 5, 2023 (18:44:06 UTC).
