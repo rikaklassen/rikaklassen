@@ -5,6 +5,7 @@
   - [ ] Create a reference list of labour rights violation under Google
   - [ ] Create a reference list of labour rights violation under Twitter
   - [ ] Create a reference list of moderation problems with Oddysee, PeerTube, Mastodon, YouTube etc
+  - [ ] Create a reference list about financial transparency
 - [ ]  Mirror Instagram photos to Pixelfed and Calckey / Misskey
 - [ ] Back up Tumblr posts
 - [ ] Back up tweets
