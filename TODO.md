@@ -9,6 +9,7 @@
 - [ ]  Mirror Instagram photos to Pixelfed and Calckey / Misskey
 - [ ] Back up Tumblr posts
 - [ ] Back up tweets
+- [x] Back up Cohost posts
 - [ ] Finish blog posts for LighterPack
 - [ ] Figure out if it's worth changing liscence to a different Creative Commons
 
