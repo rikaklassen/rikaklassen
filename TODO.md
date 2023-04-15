@@ -5,8 +5,7 @@
 - [ ] Back up Tumblr posts
 - [ ] Back up tweets
 - [ ] Finish blog posts for LighterPack
-- [x] Figure out if it's worth changing liscence to a different Creative Commons
 
 If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
-Last updated April 15, 2023 (18:09:33 UTC).
+Last updated April 15, 2023 (18:12:07 UTC).
