@@ -2,10 +2,10 @@
 - [ ]  Create GitLab Pages
   - [ ] Set up runners for GitLab 
 - [ ]  Create document explaining why content are not on certain platforms
-  - [ ] Create a reference list of labour rights violation under Google
-  - [ ] Create a reference list of labour rights violation under Twitter
-  - [ ] Create a reference list of moderation problems with Oddysee, PeerTube, Mastodon, YouTube etc
-  - [ ] Create a reference list about financial transparency
+  - [x] Create a reference list of labour rights violation under Google
+  - [x] Create a reference list of labour rights violation under Twitter
+  - [x] Create a reference list of moderation problems with Oddysee, PeerTube, Mastodon, YouTube etc
+  - [x] Create a reference list about financial transparency
 - [ ]  Mirror Instagram photos to Pixelfed and Calckey / Misskey
 - [ ] Back up Tumblr posts
 - [ ] Back up tweets
