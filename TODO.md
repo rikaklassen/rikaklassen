@@ -2,7 +2,7 @@
 - [ ]  Create GitLab Pages
   - [ ] Set up runners for GitLab 
 - [ ]  Mirror Instagram photos to Pixelfed and Calckey / Misskey
-- [ ] Back up Tumblr posts
+- [x] Back up Tumblr posts
 - [ ] Back up tweets
 - [ ] Finish blog posts for LighterPack
 
