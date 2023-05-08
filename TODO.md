@@ -5,6 +5,7 @@
 - [x] Back up Tumblr posts
 - [ ] Back up tweets
 - [ ] Finish blog posts for LighterPack
+- [ ] Find an [alternative](https://chaos.social/@scy/110321162229302299) to Matrix
 
 If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
