@@ -4,7 +4,7 @@ Here on GitHub are where open-source files, transcripts, subtitle files, citatio
 ### Where You Can Find Me
 #### Active
 - [Instagram](https://www.instagram.com/rikaklassen/) / [Pixelfed](https://pixelfed.social/rikaklassen)
-- ~~Twitter~~ / Mastodon
+-  [Bluesky](https://bsky.app/profile/rikaklassen.bsky.social) / Mastodon / ~~Twitter~~
 #### Pending
 - [YouTube](https://www.youtube.com/@rikaklassen)
 - [Vimeo](https://vimeo.com/rikaklassen)
