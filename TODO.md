@@ -2,10 +2,12 @@
 - [ ]  Create GitLab Pages
   - [ ] Set up runners for GitLab 
 - [ ]  Mirror Instagram photos to Pixelfed and Calckey / Misskey
-- [x] Back up Tumblr posts
 - [ ] Back up tweets
 - [ ] Finish blog posts for LighterPack
 - [ ] Find an [alternative](https://chaos.social/@scy/110321162229302299) to Matrix
+- [ ] Back up posts from Cohost and Tumblr to their repos (November 16, 2023)
+- [ ] Archive the Tumblr and Cohost posts to Internet Archive and archive.today
+- [ ] Figure out how to mirror Pillowfort to their repo
 
 If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
