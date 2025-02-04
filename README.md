@@ -25,4 +25,4 @@ Here on GitHub are where open-source files, transcripts, subtitle files, citatio
 ### How To Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4GHE0Q)
 ### Others Needing Support
-- [PayPal](https://www.paypal.me/bglamours) - Bestie is going through college and she needs all the support she can get.
+- [PayPal](https://www.paypal.me/dessi66) - Bestie is going through college and she needs all the support she can get.
